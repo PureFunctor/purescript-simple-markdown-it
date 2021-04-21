@@ -1,0 +1,24 @@
+{
+    "name": "purescript-simple-markdown-it",
+    "license": [
+        "BSD-3-Clause"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/PureFunctor/simple-markdown-it.git"
+    },
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "output"
+    ],
+    "dependencies": {
+        "purescript-effect": "^v3.0.0",
+        "purescript-foreign": "^v6.0.0",
+        "purescript-functions": "^v5.0.0",
+        "purescript-options": "^v6.0.0",
+        "purescript-psci-support": "^v5.0.0",
+        "purescript-untagged-union": "https://github.com/jvliwanag/purescript-untagged-union.git#v0.3.0"
+    }
+}
