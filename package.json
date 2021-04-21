@@ -1,0 +1,12 @@
+{
+  "name": "simple-markdown-it",
+  "private": true,
+  "license": "BSD-3-Clause",
+  "scripts": {
+    "build": "spago build",
+    "test": "spago -x tests.dhall test"
+  },
+  "dependencies": {
+    "markdown-it": "^12.0.6"
+  }
+}
